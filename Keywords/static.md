@@ -1,0 +1,1 @@
+### Static means class level scope... before main() static blocks are executed... at the time of class loading only static variables comes into picture....if you want to perform one time activity put that code into static blocks... only once static blocks are executed... without creating an object e can call static methods

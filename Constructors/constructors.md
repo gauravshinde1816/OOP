@@ -54,7 +54,7 @@
 
 ## Copy constructor vs assignment operator in C++:
 
-#include<iostream>
+```#include<iostream>
 #include<stdio.h>
 
 using namespace std;
@@ -88,6 +88,7 @@ Test t1, t2;
 getchar();
 return 0;
 }
+```
 
 output:
 Assignment operator called
