@@ -9,6 +9,9 @@
 - If a class is declared abstract, it cannot be instantiated.
 - To use an abstract class, you have to inherit it from another class, provide implementations for the abstract methods in it.
 - If you inherit an abstract class, you have to provide implementations to all the abstract methods in it.
+- It can have constructors and static methods also.
+
+- It can have final methods which will force the subclass not to change the body of the method.
 
 ### Abstract Methods:
 
